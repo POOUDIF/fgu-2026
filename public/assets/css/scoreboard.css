@@ -1,0 +1,46 @@
+.scoreboardBody { min-height: 100vh; color: #f4f8ff; background: radial-gradient(ellipse at 50% -20%, #1d4776 0, #0b2039 47%, #061323 100%); }
+.spectatorBoard { width: min(1500px, 100%); margin: auto; padding: 24px clamp(16px, 4vw, 64px) 18px; }
+.spectatorHeader { display: flex; align-items: center; justify-content: space-between; gap: 16px; border-bottom: 1px solid rgba(255,255,255,.14); padding-bottom: 16px; }
+.spectatorBrand { color: #fff; font-size: 17px; font-weight: 900; letter-spacing: .08em; text-decoration: none; }
+.spectatorBrand span { display: block; margin-top: 3px; color: #91a9c6; font-size: 9px; letter-spacing: .17em; }
+.spectatorLive { display: inline-flex; align-items: center; gap: 9px; color: #ffc5c5; font-size: 11px; font-weight: 900; letter-spacing: .1em; }
+.spectatorLive i { width: 9px; height: 9px; border-radius: 50%; background: #fb6565; box-shadow: 0 0 14px #fb6565; }
+.spectatorLive.connected { color: #9af1bd; }
+.spectatorLive.connected i { background: #42df8b; box-shadow: 0 0 14px #42df8b; }
+.spectatorIntro { padding: clamp(24px, 5vh, 48px) 0 26px; text-align: center; }
+.spectatorEyebrow { margin: 0 0 9px; color: #84b9f3; font-size: 11px; font-weight: 900; letter-spacing: .2em; }
+.spectatorIntro h1 { margin: 0; color: #fff; font-size: clamp(30px, 5vw, 56px); line-height: 1.08; }
+.spectatorRound { margin: 14px 0 19px; color: #ffcf76; font-size: clamp(18px, 2.6vw, 27px); font-weight: 900; letter-spacing: .08em; }
+.spectatorProgress { display: flex; justify-content: center; gap: clamp(10px, 3vw, 34px); }
+.spectatorProgress span { display: grid; grid-template-columns: auto 1fr; align-items: center; gap: 8px; color: #8096b0; text-align: left; }
+.spectatorProgress b { display: grid; width: 30px; height: 30px; place-items: center; border: 1px solid #526983; border-radius: 50%; font-size: 13px; }
+.spectatorProgress small { font-size: 12px; font-weight: 700; }
+.spectatorProgress .active b { border-color: #ffbf58; background: #ffbf58; color: #17243a; }
+.spectatorProgress .active small { color: #ffcf76; }
+.spectatorProgress .complete b { border-color: #37c883; background: #37c883; color: #092c25; }
+.spectatorTableCard { overflow: hidden; border: 1px solid rgba(255,255,255,.12); border-radius: 19px; background: rgba(255,255,255,.97); box-shadow: 0 24px 70px rgba(0,0,0,.25); color: #17263a; }
+.spectatorTableScroll { overflow-x: auto; }
+.spectatorTable { width: 100%; min-width: 720px; border-collapse: collapse; }
+.spectatorTable th { padding: 15px 14px; background: #edf3f9; color: #62748a; font-size: 11px; font-weight: 900; letter-spacing: .08em; text-align: center; white-space: nowrap; }
+.spectatorTable td { padding: 17px 14px; border-top: 1px solid #e8edf3; font-size: clamp(16px, 2vw, 22px); font-variant-numeric: tabular-nums; font-weight: 750; text-align: center; }
+.spectatorTable tbody tr:first-child td { border-top: 0; }
+.spectatorTable tbody tr:nth-child(even) { background: #f8fafc; }
+.spectatorTable .spectatorRank { width: 100px; }
+.spectatorTable .spectatorVillage { min-width: 190px; text-align: left; }
+.spectatorTable th.current { background: #fff0d6; color: #95600a; }
+.spectatorTable td.current { background: #fff8eb; color: #a36b08; }
+.spectatorTable .spectatorTotal { color: #0b5798; font-size: clamp(20px, 2.5vw, 28px); font-weight: 950; }
+.spectatorRankBadge { display: inline-grid; width: 34px; height: 34px; place-items: center; border-radius: 50%; background: #e9eef5; color: #46576c; font-size: 15px; }
+.spectatorTable tbody tr:nth-child(1) .spectatorRankBadge { background: #ffda83; color: #65420b; }
+.spectatorTable tbody tr:nth-child(2) .spectatorRankBadge { background: #d9e5f3; color: #384d68; }
+.spectatorTable tbody tr:nth-child(3) .spectatorRankBadge { background: #f2d6bf; color: #704321; }
+.spectatorEmpty { padding: 42px 20px !important; color: #66788d; font-size: 17px !important; text-align: center !important; }
+.spectatorFooter { display: flex; justify-content: space-between; gap: 12px; padding: 14px 2px; color: #90a5bd; font-size: 12px; }
+@media (max-width: 650px) {
+	.spectatorBoard { padding-top: 16px; }
+	.spectatorIntro { padding: 28px 0 19px; }
+	.spectatorProgress { gap: 8px; }
+	.spectatorProgress span { display: flex; flex-direction: column; gap: 5px; text-align: center; }
+	.spectatorProgress small { font-size: 10px; }
+	.spectatorFooter { flex-direction: column; font-size: 11px; }
+}

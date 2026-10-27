@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /admin
+Disallow: /desa
+Disallow: /juri
+Disallow: /login
+Disallow: /foto

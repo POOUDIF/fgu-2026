@@ -1,0 +1,474 @@
+{
+ "villages": [
+  {
+   "id": 1,
+   "name": "Pondok Ungu",
+   "pic": ""
+  },
+  {
+   "id": 2,
+   "name": "Taman Harapan Baru",
+   "pic": ""
+  },
+  {
+   "id": 3,
+   "name": "Candrabaga",
+   "pic": ""
+  },
+  {
+   "id": 4,
+   "name": "Pulogadung",
+   "pic": ""
+  },
+  {
+   "id": 5,
+   "name": "Cakung",
+   "pic": ""
+  },
+  {
+   "id": 6,
+   "name": "Harapan Jaya",
+   "pic": ""
+  },
+  {
+   "id": 7,
+   "name": "Buaran",
+   "pic": ""
+  },
+  {
+   "id": 8,
+   "name": "Perumnas",
+   "pic": ""
+  },
+  {
+   "id": 9,
+   "name": "Kranji",
+   "pic": ""
+  }
+ ],
+ "competitions": [
+  {
+   "id": 1,
+   "name": "Lomba Mewarnai & Menceritakan",
+   "cluster": "Indoor • Hari H",
+   "age": "PAUD & TK",
+   "type": "Individu",
+   "quota": null,
+   "submission": "offline",
+   "criteria": [
+    "Komposisi warna 30%",
+    "Motorik & ketelitian 40%",
+    "Kerapihan & kebersihan 30%"
+   ],
+   "place": "Komplek Daerah",
+   "rules": [
+    "Bawa alat mewarnai & meja sendiri.",
+    "Boleh memberi narasi singkat tentang makna/tema/pengalaman gambar.",
+    "Tidak boleh meminjam alat atau mendapat bantuan.",
+    "Pendamping dilarang masuk area lomba.",
+    "Karya selesai segera dikumpulkan.",
+    "Dipilih 5 terbaik."
+   ],
+   "icon": "mewarnai.png",
+   "participation": "individual",
+   "winner_count": 5
+  },
+  {
+   "id": 2,
+   "name": "Lomba Dakwah Online",
+   "cluster": "Online • Pre-Event",
+   "age": "PAUD, TK – SD Kelas 3",
+   "type": "Individu",
+   "quota": null,
+   "submission": "online",
+   "criteria": [
+    "Kriteria penilaian detail menyusul"
+   ],
+   "place": "Daring",
+   "rules": [
+    "Video dakwah/nasehat maksimal 5 menit, format portrait.",
+    "Peserta adalah pemeran/pendakwah.",
+    "Boleh dibantu orang tua/pembimbing desa.",
+    "Gunakan bahasa umum dan tidak menyebut hal-hal bithonah.",
+    "Upload maksimal H-3 ke media sosial pribadi/desa; tag @festivalgenerasiunggul & @jamsirat.",
+    "Tidak ada batas jumlah peserta per desa.",
+    "Penilaian sebelum acara; hasil diumumkan bersama lomba lainnya."
+   ],
+   "icon": "mc.png",
+   "participation": "individual",
+   "winner_count": 3
+  },
+  {
+   "id": 3,
+   "name": "Hafalan Asmaul Husna",
+   "cluster": "Indoor • Hari H",
+   "age": "SD Kelas 1–3",
+   "type": "Regu 2 orang",
+   "quota": 2,
+   "submission": "offline",
+   "criteria": [
+    "Kebenaran bacaan (makhroj & tajwid) 40%",
+    "Kelengkapan hafalan 99 asma 30%",
+    "Keindahan lantunan 20%",
+    "Kekompakan 10%"
+   ],
+   "place": "Komplek Daerah",
+   "rules": [
+    "2 orang per desa (putra/putri).",
+    "Pendamping maksimal 1 orang.",
+    "Pengujian 1: membaca bergantian dan berurutan per 5 nomor.",
+    "Pengujian 2: undian; juri membaca 3 nomor, peserta meneruskan 5 nomor berikutnya.",
+    "Maksimal 10 detik untuk menjawab pengujian ke-2.",
+    "Urutan tampil sesuai Technical Meeting."
+   ],
+   "icon": "asmaul-husna.png",
+   "participation": "team",
+   "winner_count": 3
+  },
+  {
+   "id": 4,
+   "name": "Hafalan Doa Harian",
+   "cluster": "Indoor • Hari H",
+   "age": "SD Kelas 1–3",
+   "type": "Regu 2 orang",
+   "quota": 2,
+   "submission": "offline",
+   "criteria": [
+    "Kelancaran 50%",
+    "Makhorijul huruf 30%",
+    "Kekompakan 10%",
+    "Penampilan seragam 10%"
+   ],
+   "place": "Komplek Daerah",
+   "rules": [
+    "1 putra & 1 putri per desa.",
+    "Pendamping maksimal 1 orang; peserta membaca bersama-sama.",
+    "Bacaan dipilih melalui undian versi panjang/pendek.",
+    "Versi panjang: doa tidur, masjid, makan, WC, rumah, melihat & mendapat musibah.",
+    "Versi pendek: doa orang tua, pagi-sore, susu, berdiri, dunia-akhirat, petir, berpakaian, berbuka, setelah adzan, setelah wudhu, ketetapan iman."
+   ],
+   "icon": "hafalan-doa-harian.png",
+   "participation": "team",
+   "winner_count": 3
+  },
+  {
+   "id": 5,
+   "name": "Praktek Sholat Berjamaah",
+   "cluster": "Indoor • Hari H",
+   "age": "SD Kelas 1–3",
+   "type": "Regu 5–10 orang",
+   "quota": 10,
+   "submission": "offline",
+   "criteria": [
+    "Sikap & gerakan sholat 40%",
+    "Tuma'ninah 30%",
+    "Bacaan sholat + lagu 20%",
+    "Penampilan seragam 10%"
+   ],
+   "place": "Komplek Daerah",
+   "rules": [
+    "Regu 5–10 orang per desa (minimal 5 dan maksimal 10 peserta).",
+    "Pendamping maksimal 1 orang.",
+    "Praktik sholat Subuh berjamaah.",
+    "Surat pilihan ditentukan masing-masing desa dan tidak terlalu panjang.",
+    "Semua bacaan bersama kecuali Al-Fatihah & surat pilihan oleh imam."
+   ],
+   "icon": "sholat-berjamaah.png",
+   "participation": "team",
+   "winner_count": 3
+  },
+  {
+   "id": 6,
+   "name": "Hafalan Surat Pendek",
+   "cluster": "Indoor • Hari H",
+   "age": "SD Kelas 4–6",
+   "type": "Individu",
+   "quota": 1,
+   "submission": "offline",
+   "criteria": [
+    "Kelancaran 40%",
+    "Tajwid 30%",
+    "Makhorijul huruf 20%",
+    "Lagu 5%",
+    "Kerapian penampilan 5%"
+   ],
+   "place": "Komplek Daerah",
+   "rules": [
+    "Maksimal 1 orang per desa.",
+    "Pendamping maksimal 1 orang.",
+    "Materi Juz 30: An-Nas – Al-Buruj.",
+    "1 soal undian surat sedang/panjang maksimal Al-Ghosiyah, lalu soal kedua dari juri.",
+    "Juri membaca potongan surat; peserta melanjutkan hingga dihentikan."
+   ],
+   "icon": "hafalan-surat-pendek-juz-30.png",
+   "participation": "individual",
+   "winner_count": 3
+  },
+  {
+   "id": 7,
+   "name": "Nasehat / Pidato Agama (Da'i Cilik)",
+   "cluster": "Outdoor • Panggung",
+   "age": "SD Kelas 4–6",
+   "type": "Individu",
+   "quota": 1,
+   "submission": "offline",
+   "criteria": [
+    "Relevansi tema 20%",
+    "Penguasaan materi 40%",
+    "Ketepatan waktu 5%",
+    "Retorika 30%",
+    "Kerapian penampilan 5%"
+   ],
+   "place": "Panggung Utama",
+   "rules": [
+    "1 orang putra per desa.",
+    "Durasi maksimal 10 menit; melebihi waktu mendapat pengurangan nilai.",
+    "Juri dapat menghentikan penampilan bila diperlukan.",
+    "Tema: Pentingnya Memiliki 29 Karakter Luhur.",
+    "Tampil tanpa membawa teks."
+   ],
+   "icon": "nasehat-dai-cilik.png",
+   "participation": "individual",
+   "winner_count": 3
+  },
+  {
+   "id": 8,
+   "name": "Cerdas Cermat",
+   "cluster": "Indoor & Outdoor • Panggung",
+   "age": "SD Kelas 4–6",
+   "type": "Regu 3 orang",
+   "quota": 3,
+   "submission": "offline",
+   "criteria": [
+    "Babak 1–2: sistem poin/lempar",
+    "Babak 3: benar +50, salah −20",
+    "Final: benar +100, salah −50"
+   ],
+   "place": "Komplek Daerah & Panggung Utama",
+   "rules": [
+    "Babak 1: soal bergantian; tak terjawab hangus tanpa pengurangan; tidak ada eliminasi.",
+    "Babak 2: sistem lempar; diambil 6 grup terbaik.",
+    "Babak 3: 15 soal rebutan, 15 detik/soal; 3 tim dieliminasi, 3 finalis lanjut.",
+    "Final: 15 soal rebutan, 10 detik/soal.",
+    "Materi: 29 Karakter Luhur, hari besar, kota/provinsi, pahlawan, Bahasa Indonesia, olahraga, budaya, teknologi, dunia."
+   ],
+   "icon": "cerdas-cermat.png",
+   "participation": "team",
+   "winner_count": 3
+  },
+  {
+   "id": 9,
+   "name": "Lomba Adzan Subuh",
+   "cluster": "Outdoor • Panggung",
+   "age": "SMP Kelas 1–3",
+   "type": "Individu",
+   "quota": 2,
+   "submission": "offline",
+   "criteria": [
+    "Lagu adzan 40%",
+    "Makhorijul huruf 30%",
+    "Sikap & gerak (sunah adzan) 20%",
+    "Kerapian penampilan 10%"
+   ],
+   "place": "Komplek Daerah",
+   "rules": [
+    "2 orang/desa: 1 SD & 1 SMP.",
+    "Tampil perorangan; SD tampil lebih dulu.",
+    "Adzan Subuh, nada lagu bebas.",
+    "Berpakaian sopan dan rapi.",
+    "Kategori SD: Juara 1,2,3 + Harapan 1,2,3."
+   ],
+   "icon": "adzan-subuh.png",
+   "participation": "individual",
+   "winner_count": 3
+  },
+  {
+   "id": 10,
+   "name": "Membaca & Menulis Pegon",
+   "cluster": "Indoor • Hari H",
+   "age": "SMP Kelas 1–3",
+   "type": "Individu",
+   "quota": 2,
+   "submission": "offline",
+   "criteria": [
+    "Menulis: ketepatan 40%, kerapihan 30%, keindahan 30%",
+    "Mendengarkan: ketepatan & kesesuaian kata 40%, ketepatan penulisan 40%, kerapihan 20%",
+    "Membaca: kelancaran 40%, kecepatan 30%, kerapihan penampilan 30%"
+   ],
+   "place": "Komplek Daerah",
+   "rules": [
+    "3 sesi: Kitabah, Istima', Qira'ah.",
+    "Kitabah: teks Bahasa Indonesia ditulis dalam Pegon.",
+    "Istima': kalimat dibacakan, diterjemahkan & ditulis dalam Pegon; gunakan Pegon baku bila ada.",
+    "Qira'ah: membaca teks Arab/Pegon.",
+    "Bawa alas tulis/meja lipat & alat tulis sendiri.",
+    "Pendamping tidak boleh masuk setelah lomba dimulai."
+   ],
+   "icon": "membaca-menulis-pegon.png",
+   "participation": "individual",
+   "winner_count": 3
+  },
+  {
+   "id": 11,
+   "name": "Hafalan Dalil Al-Qur'an & Al-Hadits",
+   "cluster": "Indoor • Hari H",
+   "age": "SMP Kelas 1–3",
+   "type": "Individu",
+   "quota": 2,
+   "submission": "offline",
+   "criteria": [
+    "Kelancaran lafadz 40%",
+    "Arti dalil 25%",
+    "Makhorijul huruf 35%"
+   ],
+   "place": "Komplek Daerah",
+   "rules": [
+    "2 perwakilan per desa: putra & putri.",
+    "Materi: 6 Thobiat Luhur, Maqodirulla, dan 3 Sukses beserta artinya.",
+    "Ambil nomor undian urut tampil.",
+    "Juri memberi 2 soal; soal ketiga sesuai nomor undian."
+   ],
+   "icon": "hafalan-dalil-quran-hadits.png",
+   "participation": "individual",
+   "winner_count": 3
+  },
+  {
+   "id": 12,
+   "name": "Lomba Tafsir Al-Qur'an",
+   "cluster": "Indoor • Hari H",
+   "age": "SMA/K Kelas 1–3",
+   "type": "Individu",
+   "quota": 1,
+   "submission": "offline",
+   "criteria": [
+    "Kejelasan penyampaian 70%",
+    "Penampilan (busana) 15%",
+    "Relevansi tema 15%"
+   ],
+   "place": "Komplek Daerah",
+   "rules": [
+    "1 orang putra/putri.",
+    "Materi: makna, keterangan, dan penjelasan ayat.",
+    "Tema: Bab Hukum dan Cerita dalam Al-Qur'an; pilih salah satu.",
+    "Durasi maksimal 15 menit.",
+    "Berpakaian rapi dan syar'i; langsung tanpa muqodimah; wajib ayat yang telah manqul."
+   ],
+   "icon": "khotbah-jumat.png",
+   "participation": "individual",
+   "winner_count": 3
+  },
+  {
+   "id": 13,
+   "name": "Lomba Masak",
+   "cluster": "Outdoor • Lapangan",
+   "age": "SMA/K Kelas 1–3",
+   "type": "Regu 3 orang",
+   "quota": 3,
+   "submission": "offline",
+   "criteria": [
+    "Cita rasa 35%",
+    "Penyajian 20%",
+    "Kebersihan 15%",
+    "LPJ 15%",
+    "Waktu 15%"
+   ],
+   "place": "Komplek Daerah",
+   "rules": [
+    "Bahan utama ayam; tema masakan khas daerah luar Jawa.",
+    "Durasi 90 menit.",
+    "Anggaran bahan Rp200.000 per peserta, disediakan panitia setelah pendaftaran.",
+    "Bahan, alat masak, dan plating disiapkan peserta.",
+    "LPJ anggaran hardcopy saat registrasi pengambilan nomor meja."
+   ],
+   "icon": "masak.png",
+   "participation": "team",
+   "winner_count": 3
+  },
+  {
+   "id": 14,
+   "name": "Lomba Stand Bazaar",
+   "cluster": "Outdoor • Area Bazaar",
+   "age": "Remaja PGM",
+   "type": "Grup",
+   "quota": null,
+   "submission": "offline",
+   "criteria": [
+    "Dekorasi stand 40%",
+    "Dress code peserta 25%",
+    "Keunikan produk 20%",
+    "Kebersihan & kerapihan 15%"
+   ],
+   "place": "Komplek Daerah",
+   "rules": [
+    "Stand dipersiapkan malam sebelum hari pelaksanaan.",
+    "Tema: Profesi; kegiatan mulai 07.00 WIB.",
+    "Penilaian tentatif selama lomba bazar.",
+    "Kuliner/fashion sekreatif mungkin; kuliner wajib halal & aman.",
+    "Dekorasi & dress code sesuai Profesi, tetap syar'i.",
+    "Dilarang berjualan di luar lokasi bazar."
+   ],
+   "icon": "bazaar.png",
+   "participation": "team",
+   "winner_count": 3
+  },
+  {
+   "id": 15,
+   "name": "Lomba Karya Tulis",
+   "cluster": "Online • Pre-Event",
+   "age": "Remaja PGM",
+   "type": "Individu",
+   "quota": 1,
+   "submission": "online",
+   "criteria": [
+    "Kesesuaian tema 40%",
+    "Orisinalitas & keunikan 30%",
+    "Kerapihan penulisan 30%"
+   ],
+   "place": "Komplek Daerah • pengumpulan online",
+   "rules": [
+    "Tema 29 Karakter Luhur.",
+    "Dipresentasikan/diceritakan pada hari lomba.",
+    "Bentuk bebas: tulisan, cerita, gambar/komik, dll.",
+    "Tidak mengandung SARA, pornografi, atau konten melanggar aturan.",
+    "Kumpulkan maksimal H-3 melalui folder panitia.",
+    "Format: PNG/JPG, PDF, atau DOCX."
+   ],
+   "icon": "kaligrafi.png",
+   "participation": "individual",
+   "winner_count": 3
+  },
+  {
+   "id": 16,
+   "name": "Video Campaign",
+   "cluster": "Online • Pre-Event",
+   "age": "Umum",
+   "type": "Individu atau tim",
+   "quota": null,
+   "submission": "online",
+   "criteria": [
+    "Daya Tarik Awal",
+    "Kreativitas Editing",
+    "Efek Visual & Timing",
+    "Pesan"
+   ],
+   "place": "Online",
+   "rules": [
+    "Mengangkat semangat/nilai/keunikan festival dan mengajak audiens hadir/berpartisipasi.",
+    "Durasi 60–180 detik; vertikal 9:16.",
+    "Wajib memuat nama/logo/identitas festival, waktu & lokasi, dan call to action.",
+    "Orisinal; belum pernah dipublikasikan atau diikutkan lomba lain.",
+    "Tidak mengandung SARA, pornografi, kekerasan, ujaran kebencian, atau muatan melanggar hukum/norma.",
+    "Akun publik, tag akun resmi, hashtag #festivalgenerasiunggul3 #videocampaignfgu #jamsirat.",
+    "Link video dikirim lewat formulir sesuai batas waktu; panitia berhak verifikasi."
+   ],
+   "icon": "video-kreatif-29-karakter.png",
+   "participation": "individual",
+   "winner_count": 3
+  }
+ ],
+ "content": {
+  "tagline": "Wadah Kreativitas, Prestasi, dan Generasi Unggulan Bekasi Barat",
+  "about": "FGU (Festival Generasi Unggulan) 3.0 merupakan rangkaian kegiatan kompetisi dan pembinaan generasi muda di wilayah Bekasi Barat. Platform ini digunakan untuk pendaftaran peserta, pengumpulan karya, penilaian juri, sampai pengumuman pemenang.",
+  "announcement": "Pendaftaran lomba FGU 3.0 2026 dibuka. Admin desa dapat mendaftarkan peserta sesuai kuota masing-masing lomba. Untuk lomba Pre Event/Online, karya dikumpulkan melalui link Drive."
+ }
+}

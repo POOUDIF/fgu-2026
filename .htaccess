@@ -1,0 +1,23 @@
+Options -Indexes
+
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+
+    # Arahkan URL document root lama ke URL aplikasi di root proyek.
+    RewriteRule ^public/?$ ./ [R=301,L]
+
+    # Jangan sajikan kode aplikasi, data konfigurasi, atau berkas tersembunyi.
+    RewriteRule ^(?:application|system|vendor|writable|database|tests|docs)(?:/|$) - [F,L,NC]
+    RewriteRule (^|/)\. - [F,L]
+
+    # Aset publik tetap disimpan di public/assets, tetapi URL-nya tanpa /public.
+    RewriteRule ^assets/(.*)$ public/assets/$1 [L]
+    RewriteRule ^public/assets/ - [L]
+
+    # Gunakan URL root saja; cegah akses langsung ke front controller di public/.
+    RewriteRule ^public(?:/|$) - [F,L,NC]
+    RewriteRule ^index\.php$ - [L]
+
+    # Semua URL aplikasi ditangani oleh front controller di root.
+    RewriteRule ^ index.php [L]
+</IfModule>

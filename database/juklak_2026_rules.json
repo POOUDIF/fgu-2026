@@ -1,0 +1,151 @@
+{
+    "mewarna":  [
+                    "Pendaftaran peserta mewarnai dilakukan online melalui website resmi FGU 3.0.",
+                    "Peserta membawa peralatan lomba masing-masing (alat mewarnai \u0026 meja mewarnai).",
+                    "Peserta mengolah warna pada lembar gambar sesuai kreativitas dan kemampuan masing-masing.",
+                    "Peserta yang terpilih sebagai 5 besar diminta memberikan presentasi lisan/narasi singkat mengenai makna gambar, tema visual, atau pengalaman pribadi yang relevan dengan gambar tersebut.",
+                    "Tidak diperkenankan meminjam peralatan dari peserta lain.",
+                    "Tidak diperkenankan mendapat bantuan selama lomba berlangsung.",
+                    "Pendamping dilarang memasuki area lomba selama lomba berlangsung.",
+                    "Karya yang sudah selesai segera dikumpulkan ke panitia.",
+                    "Sketsa gambar ukuran A4 disediakan panitia.",
+                    "Keputusan penilaian juri mutlak dan tidak dapat diganggu gugat."
+                ],
+    "dakwah":  [
+                   "Membuat video dakwah/nasehat maksimal 5 menit, format portrait media sosial (Instagram).",
+                   "Pendaftaran peserta dilakukan online melalui website resmi FGU 3.0.",
+                   "Peserta memilih salah satu tema yang ditentukan panitia: Berbakti Kepada Orang Tua, Bersyukur, atau Menjaga Lisan dan Ucapan.",
+                   "Peserta adalah pemeran/pendakwah dalam video tersebut.",
+                   "Pembuatan video \u0026 isi dakwah boleh dibantu orang tua/pembimbing desa masing-masing.",
+                   "Berdakwah dengan bahasa umum (tidak menyebutkan hal-hal bithonah).",
+                   "Upload video maksimal H-3 ke akun media sosial (Instagram) pribadi/desa, tag akun @festivalgenerasiunggul \u0026 @jamsirat, dan submit melalui website yang sama saat pendaftaran.",
+                   "Tidak ada batas jumlah peserta per desa.",
+                   "Penilaian dilakukan sebelum acara; hasil diumumkan bersamaan dengan lomba lainnya."
+               ],
+    "asmaul":  [
+                   "Tampil beregu, 2 orang perwakilan per desa (putra/putri).",
+                   "Pendamping per desa hanya boleh masuk 1 orang.",
+                   "Pengujian 1: masing-masing peserta membaca Asmaul Husna sampai selesai dengan cara bergantian dan berurutan per 5 nomor / 2 nomor.",
+                   "Pengujian 2: peserta mengambil undian soal; juri membacakan 3 nomor, peserta meneruskan 5 nomor berikutnya.",
+                   "Durasi maksimal menjawab pengujian ke-2: 10 detik.",
+                   "Urutan penampilan sesuai hasil Technical Meeting."
+               ],
+    "doa harian":  [
+                       "Tampil beregu, 2 orang perwakilan per desa (bebas putra/putri/keduanya).",
+                       "Pendamping per desa hanya boleh masuk 1 orang.",
+                       "Doa yang diuji merujuk pada doa-doa di BUKU SAKU DO\u0027A.",
+                       "Bacaan doa dipilih melalui undian: undian 1 (versi panjang), undian 2 (versi pendek). Undian berisi 2 soal doa versi pendek dan 1 soal doa versi panjang.",
+                       "Juri membacakan soal dari hasil undian peserta.",
+                       "Doa panjang: Doa Mohon Tetap Dalam Hidayah; Doa Minta Ilmu Yang Bermanfaat 2; Doa Masuk Rumah; Doa Ketika Melihat Orang Mendapat Musibah/Cobaan; Doa Ketika Tertimpa Musibah; Doa Ketika Susah; Doa Ketika Ada Angin Kencang; Doa Ketika Mendengar Petir; Doa Mohon Perlindungan dari Jeleknya Pendengaran, Penglihatan, Lisan dan Hati.",
+                       "Doa pendek: Doa Untuk Kedua Orang Tua; Doa Pagi dan Sore; Doa Selesai Minum Susu; Doa Berdiri dari Duduk; Doa Kebaikan Dunia dan Akhirat; Doa Berpakaian; Doa Masuk/Keluar Masjid; Doa Setelah Mendengar Adzan; Doa Minta Ilmu Yang Bermanfaat 1; Doa Mohon Ketetapan Iman; Doa Bangun Dari Tidur; Doa Setelah Makan; Doa Ketika Keluar Rumah.",
+                       "Urutan penampilan sesuai hasil Technical Meeting."
+                   ],
+    "sholat|shalat":  [
+                          "Tampil beregu 5–10 orang per desa (minimal 5 dan maksimal 10 peserta).",
+                          "Pendamping per desa hanya boleh masuk 1 orang.",
+                          "Peserta yang belum tampil menunggu di tempat yang disediakan.",
+                          "Sholat yang dipraktikkan: sholat Subuh berjamaah.",
+                          "Bacaan surat ditentukan masing-masing desa (tidak terlalu panjang).",
+                          "Semua bacaan sholat dibaca bersama-sama, kecuali Al-Fatihah \u0026 surat pilihan (khusus imam).",
+                          "Urutan penampilan sesuai hasil Technical Meeting."
+                      ],
+    "surat pendek|juz\\s*30":  [
+                                   "Tampil perorangan, maksimal 1 orang perwakilan desa (putra/putri).",
+                                   "Pendamping per desa hanya boleh masuk 1 orang.",
+                                   "Surat yang diuji: Juz 30 (An-Nas – Al-Lail).",
+                                   "Setiap peserta mendapat 2 sesi: Sesi 1 soal dari undian, Sesi 2 soal langsung dari juri.",
+                                   "Sesi 1: peserta memilih 1 soal via undian yang berisi surat yang harus dibacakan.",
+                                   "Sesi 2: juri membacakan potongan surat, peserta melanjutkan hingga diberhentikan juri.",
+                                   "Urutan penampilan sesuai hasil Technical Meeting."
+                               ],
+    "cilik|nasehat":  [
+                          "Tampil perorangan, maksimal 1 perwakilan putra per desa.",
+                          "Durasi maksimal 10 menit — pengurangan nilai bila melebihi waktu.",
+                          "Juri dapat menghentikan penampilan bila diperlukan.",
+                          "Tema: \"Pentingnya Memiliki 29 Karakter Luhur\".",
+                          "Peserta tampil tanpa membawa teks.",
+                          "Urutan penampilan sesuai hasil Technical Meeting."
+                      ],
+    "cerdas cermat":  [
+                          "1 regu terdiri dari 3 orang (putra/putri) per desa.",
+                          "Babak 1 (Sistem Poin): setiap grup mendapat 1 paket soal bergantian; soal yang tidak terjawab dinyatakan hangus tanpa pengurangan nilai. Tidak ada grup yang terdiskualifikasi.",
+                          "Babak 2 (Sistem Lempar): setiap desa diberi soal; bila tak terjawab, dilempar ke grup lain (ada pengurangan nilai bila gagal menjawab awal). Diambil 6 grup terbaik.",
+                          "Babak 3 (Penyisihan – Adu Cepat): 15 soal rebutan, benar +50, salah −20, durasi 15 detik/soal. 3 tim dieliminasi, 3 tim finalis lanjut ke final.",
+                          "Babak Final (Panggung Utama – Adu Cepat): 15 soal rebutan, benar +100, salah −50, durasi 10 detik/soal.",
+                          "Paket soal: studi kasus 29 Karakter Luhur; Quran Hadis bab cerita 25 Nabi; organisasi internal (LDII, SENKOM dll.); paket umum (tanggal hari besar, nama kota \u0026 provinsi, Bahasa Indonesia, pengetahuan umum)."
+                      ],
+    "adzan|azan":  [
+                       "Tampil perorangan, 1 perwakilan desa per kategori (1 putra per desa).",
+                       "Pendamping per desa hanya boleh masuk 1 orang.",
+                       "Adzan yang digunakan: Adzan Subuh, nada lagu bebas.",
+                       "Berpakaian sopan dan rapi.",
+                       "Urutan penampilan sesuai hasil Technical Meeting."
+                   ],
+    "pegon":  [
+                  "Perlombaan dibagi 3 sesi, 1 orang/desa (1 putra / 1 putri).",
+                  "Sesi 1 — Kitabah (Menulis): panitia membagikan 5 soal berisi penggalan kalimat pegon baku, angka, dll.",
+                  "Sesi 2 — Istima\u0027 (Mendengarkan): panitia mendiktekan sebuah paragraf dari Nasihat PPG; peserta menulis apa yang dibacakan dalam bentuk pegon.",
+                  "Sesi 3 — Qira\u0027ah (Membaca): peserta membaca soal yang diberikan juri secara bergantian dengan durasi membaca 5 menit; urutan pembacaan ditentukan panitia.",
+                  "Peserta duduk di tempat yang diatur panitia; membawa alas tulis/meja lipat \u0026 alat tulis sendiri.",
+                  "Pendamping tidak diperkenankan masuk ruang lomba setelah lomba dimulai."
+              ],
+    "dalil":  [
+                  "Tampil perorangan, 2 perwakilan per desa (putra \u0026 putri).",
+                  "Materi: hafalan dalil 6 Thobiat Luhur, 4 Maqodirullah, dan 3 Sukses beserta artinya.",
+                  "Soal berupa instruksi dalil dari salah satu kategori materi; peserta menyebutkan 1 dalil dari kategori tersebut.",
+                  "Saat maju, juri memberi 2 soal — peserta menyebutkan dalil atau artinya.",
+                  "Soal ketiga diambil dan diberikan sesuai nomor undian.",
+                  "Urutan penampilan sesuai hasil Technical Meeting."
+              ],
+    "tafsir":  [
+                   "Perlombaan bersifat individu (1 orang putra/putri per desa).",
+                   "Materi uji: menyampaikan makna, keterangan, dan penjelasan dari ayat yang disampaikan.",
+                   "Tema: Bab Hukum dan Cerita dalam Al-Qur\u0027an — peserta memilih salah satu tema.",
+                   "Ayat yang disampaikan sesuai tema pilihan; durasi maksimal 15 menit.",
+                   "Berpakaian rapih dan syar\u0027i.",
+                   "Langsung menyampaikan tanpa muqodimah; wajib menyampaikan ayat yang telah manqul.",
+                   "Urutan penampilan sesuai hasil Technical Meeting."
+               ],
+    "masak":  [
+                  "1 regu / 3 putri per desa.",
+                  "Bahan utama masakan: \"Ikan\", bertemakan masakan daerah Nusantara.",
+                  "Durasi memasak 90 menit (contoh: 09.00–10.30).",
+                  "Lokasi meja masak ditentukan panitia.",
+                  "Anggaran bahan Rp 250.000 per peserta, disediakan panitia setelah pendaftaran.",
+                  "Bahan, alat masak, dan plating disiapkan masing-masing peserta.",
+                  "Peserta membuat LPJ (Laporan Pertanggungjawaban) anggaran dalam bentuk hardcopy, diserahkan saat registrasi pengambilan nomor meja.",
+                  "Penjurian dilakukan Dewan Juri sesuai kriteria penilaian."
+              ],
+    "bazaar|bazar":  [
+                         "Peserta berupa grup.",
+                         "Stand bazar dipersiapkan pada malam hari sebelum hari pelaksanaan.",
+                         "Tema bazar: Profesi. Kegiatan dimulai pukul 07.00 WIB.",
+                         "Waktu penilaian bersifat tentatif dalam kurun waktu lomba bazar.",
+                         "Peserta menjual produk kuliner/fashion sekreatif mungkin; produk kuliner wajib halal \u0026 aman.",
+                         "Stand didekorasi \u0026 dress code peserta sesuai tema Profesi, tetap syar\u0027i.",
+                         "Menjaga kebersihan \u0026 kerapihan area; dilarang berjualan di luar lokasi bazar."
+                     ],
+    "karya tulis":  [
+                        "Individu (1 putra / putri).",
+                        "Karya tulis bertemakan 29 Karakter Luhur.",
+                        "Peserta diharuskan mempresentasikan atau menceritakan karya tulisnya pada hari perlombaan.",
+                        "Bentuk karya bebas: tulisan, cerita fiktif/asli, berisi gambar atau komik, dll.",
+                        "Tidak mengandung SARA, pornografi, atau konten yang melanggar aturan.",
+                        "Karya tulis dikumpulkan maksimal H-3 acara ke panitia melalui website yang sama saat pendaftaran.",
+                        "File karya yang diunggah bisa berupa foto (PNG/JPG), PDF, atau Docx."
+                    ],
+    "video campaign":  [
+                           "Video campaign wajib mengangkat semangat, nilai, atau keunikan festival dan mengajak audiens untuk hadir/berpartisipasi.",
+                           "Peserta perorangan atau tim; terbuka untuk umum. Pendaftaran bisa melalui admin desa maupun umum (tanpa login).",
+                           "Peserta wajib mengisi formulir pendaftaran dan mengumpulkan karyanya melalui website.",
+                           "Setiap peserta/tim hanya boleh mengirimkan 1 (satu) karya video.",
+                           "Peserta wajib mem-follow akun media sosial resmi FGU 3.0 sebagai bentuk keikutsertaan.",
+                           "Durasi video 60–180 detik (1–3 menit), orientasi vertikal (9:16).",
+                           "Konten wajib memuat nama/logo/identitas Festival Generasi Unggul, informasi dasar kegiatan (waktu dan lokasi), dan ajakan bertindak (call to action) kepada penonton untuk hadir/berpartisipasi.",
+                           "Karya orisinal, belum pernah dipublikasikan atau diikutsertakan pada lomba lain.",
+                           "Video tidak mengandung unsur SARA, pornografi, kekerasan, ujaran kebencian, atau muatan yang melanggar hukum dan norma kesusilaan.",
+                           "Video diunggah ke akun media sosial pribadi (tidak digembok/publik), menandai akun resmi festival, dan mencantumkan hashtag wajib: #festivalgenerasiunggul3 #videocampaignfgu #jamsirat.",
+                           "Link video dikirim ke panitia melalui formulir pengumpulan karya paling lambat pada batas waktu yang ditentukan.",
+                           "Panitia berhak memverifikasi keaslian dan kelayakan karya sebelum masuk tahap penjurian."
+                       ]
+}

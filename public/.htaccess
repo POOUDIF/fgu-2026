@@ -1,0 +1,21 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+
+    # Semua request yang bukan berkas/direktori nyata diteruskan ke front controller
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteRule ^(.*)$ index.php/$1 [L]
+</IfModule>
+
+<IfModule mod_headers.c>
+    Header always set X-Content-Type-Options "nosniff"
+    Header always set X-Frame-Options "SAMEORIGIN"
+    Header always set Referrer-Policy "strict-origin-when-cross-origin"
+    Header always set Permissions-Policy "camera=(), microphone=(), geolocation=()"
+</IfModule>
+
+# Jangan tampilkan isi direktori; blokir berkas tersembunyi
+Options -Indexes
+<FilesMatch "^\.">
+    Require all denied
+</FilesMatch>
